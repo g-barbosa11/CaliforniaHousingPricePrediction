@@ -1,1 +1,1 @@
-# TutorialCaliforniaHousingPricePrediction
+# Tutorial California Housing Price Prediction
