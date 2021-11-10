@@ -1,8 +1,5 @@
 # California Housing
 
-## Source
-This dataset is worked on in the book Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow written by Aurélien Géron
-
 ## Tweaks
 The dataset in this directory is almost identical to the original, with two differences:
 
